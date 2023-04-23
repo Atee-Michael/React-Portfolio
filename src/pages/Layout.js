@@ -3,7 +3,7 @@ import { Container, Nav, Navbar, NavDropdown } from "react-bootstrap";
 
 
 
-function Header() {
+function Layout() {
   return (
     <main>
       <br></br>
@@ -39,4 +39,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default Layout;
